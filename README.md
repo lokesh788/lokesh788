@@ -25,8 +25,8 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/lokesh-s-849818220/"><img align="center" src="https://img.shields.io/badge/Sakshi Gawande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lokesh LinkedIn Profile" /></a> 
-<a href="https://lucky-squirrel-35df42.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio Badge" /></a>
+<a href="https://www.linkedin.com/in/lokesh-s-849818220/"><img align="center" src="https://img.shields.io/badge/Lokesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lokesh LinkedIn Profile" /></a> 
+<a href="https://lokeshportfolioo.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio Badge" /></a>
 
 </p>
 
@@ -34,7 +34,7 @@
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
 
-<a href="https://www.hackerrank.com/profile/slokesh0504" target="_blank"><img align="center" src="https://img.shields.io/badge/Sakshi-000000?style=for-the-badge&logo=HackerRank&logoColor=#d16c06" alt="Sakshi"/></a>
+<a href="https://www.hackerrank.com/profile/slokesh0504" target="_blank"><img align="center" src="https://img.shields.io/badge/Lokesh-000000?style=for-the-badge&logo=HackerRank&logoColor=#d16c06" alt="Lokesh"/></a>
 
 
 <h3 align="center">Languages and Tools:</h3>
