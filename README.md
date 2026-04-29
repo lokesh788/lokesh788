@@ -14,7 +14,7 @@
 |  Projects|
 
 
-- 🌱 I’m currently Building **WEB PAGE**
+- 🌱 I’m currently Building **Web Page**
 
 - 💬 Ask me about **Frontend, Java and Web-Dev**
 
