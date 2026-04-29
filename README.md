@@ -14,7 +14,7 @@
 |  Projects|
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently Building **WEB PAGE**
 
 - 💬 Ask me about **Frontend, Java and Web-Dev**
 
